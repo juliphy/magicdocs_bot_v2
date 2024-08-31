@@ -56,7 +56,7 @@ class User:
 
 
 # Можна трогати це!
-token = "7217985516:AAEs4w8Y1GeEPHAQG2Oua2xduvndH5_cdpE" # Ваш токен бота
+token = "7217985516:AAE3k-mTsXVlHd3Mc3gQZDntP6L19opZNlU"
 img_api_key = "d2f5768f8798f57a63d32ddd6a4e9f8e"
 server_url = 'https://xnet-server.onrender.com' # IP чи URL-адреса вашого xnet-server
 client_url = 'https://juliphy.github.io/magicdocs_frontend' # URL-адреса вашого project-x
